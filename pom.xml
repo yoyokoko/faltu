@@ -75,7 +75,7 @@
         <version>1.6.0</version>
         <executions>
           <execution>
-		  <id>id.compile</id>
+		  <id>id.ccompile</id>
 		   <phase>compile</phase>
            <goals>
               <goal>exec</goal>
