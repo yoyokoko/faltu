@@ -83,7 +83,7 @@
             
           </execution>
         </executions>
-        <configuration>
+        <configurationoo>
           <executable>git</executable>
           
           <workingDirectory>/tmp</workingDirectory>
